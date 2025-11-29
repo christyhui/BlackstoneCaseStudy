@@ -1,22 +1,13 @@
-\# BlackstoneCaseStudy
-
-
+# BlackstoneCaseStudy
 
 This project is an attempt to simulate what Blackstone Data Scientists may do when trying to evaluate county-level residential property markets in California for purchase and development.
 
 
-
 The goal is to identify counties with high growth potential and positive market trends.
-
-
 
 Project currently utilizes the data included in the table below:
 
-
-
 \## Data Sources
-
-
 
 | Dataset | Source / Link | Description | Notes |
 |---------|---------------|-------------|-------|
